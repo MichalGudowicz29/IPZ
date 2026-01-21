@@ -12,6 +12,7 @@ git clone https://github.com/MichalGudowicz29/IPZ.git
 Foldery: 
 
 src - główny folder z kodem
+
 docs - dokumentacja kodu & raporty 
 
 
